@@ -1,9 +1,5 @@
 This is an issue.
 
-- [x] David
-- [x] Cincinnati, OH
-- [x] Pasta
-- [x] Golf
-	
-	~~some markdown formatting to make it all look pretty~~
-My favorite color: green
+- David
+- From Cincinnati, OH
+- I love pasta, golf and the color green.
