@@ -6,3 +6,4 @@ This is an issue.
 - [x] Golf
 	
 	~~some markdown formatting to make it all look pretty~~
+My favorite color: green
